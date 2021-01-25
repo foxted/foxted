@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi there 👋
+
+## 🔭 I’m currently working on
+
+- [Speakbox](https://speakbox.ca)
+
+## 🌱 I’m currently learning
+
+- [How to run websockets on Cloud Run](https://cloud.google.com/blog/products/serverless/cloud-run-gets-websockets-http-2-and-grpc-bidirectional-streams)
+
+## 👯 I’m looking to collaborate on
+
+- Web Apps
+- Proof of concept
+- Mentoring
 
 <!--
-**foxted/foxted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🤔 I’m looking for help with
 -->
+## 💬 Ask me about
+
+- Google Cloud
+- Firebase
+- Vue.js
+- Laravel
+- Nest.js
+
+## 📫 How to reach me:
+
+- [Twitter](https://twitter.com/valentinprgnd)
+- [Instagram](https://instagram.com/valentinprugnd)
+- [LinkedIn](https://linkedin.com/in/valentinprugnaud)
+
+## 😄 Pronouns
+
+He/him/his
+
+## ⚡ Fun fact
+
+I released an album with my band in my early twenties, check it out: [Hundred Miles - Just A Matter Of Time](https://open.spotify.com/album/2zUdOxrodb0t6Cb9SFnRcp)
