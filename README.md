@@ -7,12 +7,14 @@
 
 ## 🌱 I’m currently learning
 
-- [How to run websockets on Cloud Run](https://cloud.google.com/blog/products/serverless/cloud-run-gets-websockets-http-2-and-grpc-bidirectional-streams)
+- [Nest.js](https://nestjs.com/)
+- [Google Cloud PubSub](https://cloud.google.com/pubsub)
+- [Terraform](https://www.terraform.io/)
 
 ## 👯 I’m looking to collaborate on
 
-- Web Apps
-- Proof of concept
+- Web Apps / Open Source
+- Proofs of concepts
 - Mentoring
 
 <!--
@@ -25,6 +27,7 @@
 - Vue.js
 - Laravel
 - Nest.js
+- Flutter
 
 ## 📫 How to reach me:
 
@@ -36,6 +39,8 @@
 
 He/him/his
 
-## ⚡ Fun fact
+## ⚡ Fun facts
 
-I released an album with my band in my early twenties, check it out: [Hundred Miles - Just A Matter Of Time](https://open.spotify.com/album/2zUdOxrodb0t6Cb9SFnRcp)
+- I released an album with my band in my early twenties, check it out: [Hundred Miles - Just A Matter Of Time](https://open.spotify.com/album/2zUdOxrodb0t6Cb9SFnRcp)
+- I live with [Delayed Sleep Phase Disorder](https://en.wikipedia.org/wiki/Delayed_sleep_phase_disorder)
+- 🇫🇷 living in 🇨🇦
