@@ -7,9 +7,8 @@
 
 ## 🌱 I’m currently learning
 
-- [Nest.js](https://nestjs.com/)
-- [Google Cloud PubSub](https://cloud.google.com/pubsub)
-- [Terraform](https://www.terraform.io/)
+- [Next.js](https://nextjs.org/)
+- [BigQuery](https://cloud.google.com/bigquery)
 
 ## 👯 I’m looking to collaborate on
 
@@ -17,17 +16,18 @@
 - Proofs of concepts
 - Mentoring
 
-<!--
 ## 🤔 I’m looking for help with
--->
+
+- Devops (Github Actions / GCP)
+- Solution Architecting
+
 ## 💬 Ask me about
 
-- Google Cloud
+- Google Cloud Platform
+- Github Actions
 - Firebase
-- Vue.js
-- Laravel
+- Vue.js / Nuxt.js
 - Nest.js
-- Flutter
 
 ## 📫 How to reach me:
 
