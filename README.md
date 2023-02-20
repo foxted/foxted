@@ -3,7 +3,7 @@
 ## 🔭 I’m currently working on
 
 - [Speakbox](https://speakbox.ca)
-- [WhatDaFox](https://whatdafox.com)
+- [Blog](https://valentinprugnaud.dev)
 
 ## 🌱 I’m currently learning
 
