@@ -3,23 +3,19 @@
 ## 🔭 I’m currently working on
 
 - [Speakbox](https://speakbox.ca)
+- [Setlist.pro](https://setlist.pro)
 - [Blog](https://valentinprugnaud.dev)
 
-## 🌱 I’m currently learning
+## 👾 I’m currently playing with
 
-- [Next.js](https://nextjs.org/)
-- [BigQuery](https://cloud.google.com/bigquery)
+- [Go](https://go.dev/) 
+- [Supabase](https://supabase.com/)
 
 ## 👯 I’m looking to collaborate on
 
 - Web Apps / Open Source
 - Proofs of concepts
 - Mentoring
-
-## 🤔 I’m looking for help with
-
-- Devops (Github Actions / GCP)
-- Solution Architecting
 
 ## 💬 Ask me about
 
@@ -34,10 +30,6 @@
 - [Twitter](https://twitter.com/valentinprgnd)
 - [Instagram](https://instagram.com/valentinprugnd)
 - [LinkedIn](https://linkedin.com/in/valentinprugnaud)
-
-## 😄 Pronouns
-
-He/him/his
 
 ## ⚡ Fun facts
 
