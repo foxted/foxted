@@ -2,16 +2,22 @@
 
 ## 🔭 I’m currently working on
 
+- [Website](https://valentinprugnaud.dev)
 - [Speakbox](https://speakbox.ca)
 - [Setlist.pro](https://setlist.pro)
 - [Faro Separations](https://faroseparations.com)
-- [Website](https://valentinprugnaud.dev)
+
+## 🎥 I'm currently filming for
+
+- [ByteTheFox](https://www.youtube.com/@bytethefox)
+- [CodyVal](https://www.twitch.tv/codyvalcode)
 
 ## 👾 I’m currently playing with
 
 - [Go](https://go.dev/) 
 - [Supabase](https://supabase.com/)
 - [Clerk](https://clerk.com)
+- [Vercel AI](https://sdk.vercel.ai/)
 
 ## 👯 I’m looking to collaborate on
 
@@ -27,7 +33,7 @@
 - Postgres
 - Vue.js / Nuxt.js
 - React / Next.js
-- Nest.js / Node
+- Node / Nest.js
 
 ## 📫 How to reach me:
 
