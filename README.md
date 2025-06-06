@@ -3,7 +3,6 @@
 ## 🔭 I’m currently working on
 
 - [Website](https://valentinprugnaud.dev)
-- [Speakbox](https://speakbox.ca)
 - [Setlist.pro](https://setlist.pro)
 - [Faro Separations](https://faroseparations.com)
 
@@ -14,14 +13,15 @@
 
 ## 👾 I’m currently playing with
 
-- [Go](https://go.dev/) 
 - [Supabase](https://supabase.com/)
 - [Clerk](https://clerk.com)
 - [Vercel AI](https://sdk.vercel.ai/)
+- [Unreal Engine](https://www.unrealengine.com/en-US)
 
 ## 👯 I’m looking to collaborate on
 
 - Web Apps / Open Source
+- Games
 - Proofs of concepts
 - Mentoring
 
