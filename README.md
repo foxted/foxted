@@ -3,7 +3,6 @@
 ## 🔭 I’m currently working on
 
 - [Website](https://valentinprugnaud.dev)
-- [Setlist.pro](https://setlist.pro)
 - [Faro Separations](https://faroseparations.com)
 
 ## 🎥 I'm currently filming for
