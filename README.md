@@ -1,49 +1,52 @@
-# Hi there 👋
+# Hi, I'm Valentin 👋
 
-## 🔭 I’m currently working on
+**Senior Software Engineer** specializing in Developer Experience, CI/CD, and platform engineering.
 
-- [Website](https://valentinprugnaud.dev)
-- [Faro Separations](https://faroseparations.com)
+I build tools and infrastructure that help developers ship faster. Currently exploring how to make webhook testing less painful.
 
-## 🎥 I'm currently filming for
+## 🚀 Currently Building
 
-- [ByteTheFox](https://www.youtube.com/@bytethefox)
-- [CodyVal](https://www.twitch.tv/codyvalcode)
+**[Hookie](https://hookie.sh)** - Open-source webhook development tool  
+Multi-developer webhook testing using Go, Next.js, Redis Streams, and gRPC. Solving the problem of local webhook testing for distributed teams.
 
-## 👾 I’m currently playing with
+**[Personal Site](https://valentinprugnaud.dev)** - Blog and portfolio  
+Writing about developer experience, platform engineering, and building tools.
 
-- [Supabase](https://supabase.com/)
-- [Clerk](https://clerk.com)
-- [Vercel AI](https://sdk.vercel.ai/)
-- [Unreal Engine](https://www.unrealengine.com/en-US)
+## 💼 What I Do
 
-## 👯 I’m looking to collaborate on
+I spent the last 6 years at TELUS building developer experience infrastructure:
+- Led CI/CD platform serving 250+ applications across 50+ engineering teams
+- Migrated organization from Jenkins to GitHub Actions (96% deployment time reduction)
+- Built internal deployment platform replicating Vercel's UX on Google Cloud Run
+- Established testing infrastructure, config management, and platform standards
 
-- Web Apps / Open Source
-- Games
-- Proofs of concepts
-- Mentoring
+Before that: startups, agencies, and founding Speakbox (mental health platform, 2019-2024).
 
-## 💬 Ask me about
+## 🛠️ Tech I Work With
 
-- Google Cloud Platform
-- Github Actions
-- Firebase / Supabase
-- Postgres
-- Vue.js / Nuxt.js
-- React / Next.js
-- Node / Nest.js
+**Core:** TypeScript/JavaScript, Go, Node.js  
+**Frontend:** Next.js, React, Vue.js/Nuxt.js  
+**Backend:** Nest.js, PostgreSQL, GraphQL, REST APIs  
+**Infrastructure:** GCP, GitHub Actions, Kubernetes, Pulumi, Terraform  
+**Currently exploring:** Golang, Redis Streams, gRPC
 
-## 📫 How to reach me:
+## 🎯 Interested In
 
-- [Twitter](https://twitter.com/valentinprgnd)
-- [Instagram](https://instagram.com/valentinprugnd)
+- Developer Experience Engineering
+- Platform & Infrastructure Engineering
+- CI/CD Systems
+- Developer Tools & SDKs
+- Open Source Collaboration
+
+## 📫 Let's Connect
+
 - [LinkedIn](https://linkedin.com/in/valentinprugnaud)
+- [Twitter](https://twitter.com/valentinprgnd)
+- [Blog](https://valentinprugnaud.dev)
+- Email: valentin@whatdafox.com
 
-## ⚡ Fun facts
+## ⚡ Beyond Code
 
-- In the capoeira community, I am known as Raposa de Fogo (Firefox 🔥🦊)
-- I released an album in collaboration with a friend in France: [Miles Don't Matter](https://music.apple.com/us/album/miles-dont-matter/1692916821)
-- I released an album with my band in my early twenties, check it out: [Hundred Miles - Just A Matter Of Time](https://music.apple.com/us/album/just-a-matter-of-time/1627098910)
-- I live with [Delayed Sleep Phase Disorder](https://en.wikipedia.org/wiki/Delayed_sleep_phase_disorder)
-- 🇫🇷 & 🇨🇦
+- Known as Raposa de Fogo (Firefox 🔥🦊) in the capoeira community
+- Released two albums: [Miles Don't Matter](https://music.apple.com/us/album/miles-dont-matter/1692916821) and [Just A Matter Of Time](https://music.apple.com/us/album/just-a-matter-of-time/1627098910)
+- 🇫🇷 → 🇨🇦
