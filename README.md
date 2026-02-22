@@ -43,7 +43,6 @@ Before that: startups, agencies, and founding Speakbox (mental health platform, 
 - [LinkedIn](https://linkedin.com/in/valentinprugnaud)
 - [Twitter](https://twitter.com/valentinprgnd)
 - [Blog](https://valentinprugnaud.dev)
-- Email: valentin@whatdafox.com
 
 ## ⚡ Beyond Code
 
